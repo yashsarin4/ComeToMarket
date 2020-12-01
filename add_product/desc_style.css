@@ -1,0 +1,23 @@
+
+
+#navBarSearchForm{
+    width: 430px;
+    
+}
+
+
+
+.mr-auto, .mx-auto {
+    margin-right: 80px !important;
+}
+li .btn_nav{
+    background-color: red !important;
+    border-radius: 20px !important;
+    color: rgb(255, 255, 255) !important;
+    text-decoration-color: yellow !important;
+}
+.dandi{
+    color: wheat ;
+    font-size: 25px !important;
+}
+
